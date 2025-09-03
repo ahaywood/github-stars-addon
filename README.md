@@ -1,4 +1,4 @@
-# RedwoodSDK Drizzle Addon
+# RedwoodSDK GitHub Stars Addon
 
 This addon adds Drizzle to your RedwoodSDK project.
 
